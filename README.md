@@ -1,6 +1,6 @@
 # sharpdisplay-move-sound
 
-See it in action: https://x.com/CosminDolha/status/1796477893272563934
+See it in action: https://x.com/CosminDolha/status/1796478434081898968
 
 Test using The Sharp Memory Display and a raspberry pico type board, GroundStudio Marble Pico https://ardushop.ro/ro/home/2652-marble-pico.html
 It should work on the actual raspberry pico
