@@ -1,4 +1,7 @@
 # sharpdisplay-move-sound
+
+See it in action: https://x.com/CosminDolha/status/1796477893272563934
+
 Test using The Sharp Memory Display and a raspberry pico type board, GroundStudio Marble Pico https://ardushop.ro/ro/home/2652-marble-pico.html
 It should work on the actual raspberry pico
 For the controller, i have added 6 buttons on a proto board.
